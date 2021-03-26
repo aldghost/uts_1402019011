@@ -1,0 +1,34 @@
+body {
+    box-sizing: border-box;
+}
+
+header {
+    padding: 0 30px;
+}
+
+.header-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+
+.header-child {
+    width: 40%;
+}
+
+.header-child img {
+    width: 650px;
+    height: 500px;
+}
+
+.card-group {
+    margin: 20px 0;
+}
+
+.title-content {
+    text-align: center;
+}
+
+
