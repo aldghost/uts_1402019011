@@ -31,4 +31,8 @@ header {
     text-align: center;
 }
 
+#shownilai {
+    display: none;
+}
+
 
